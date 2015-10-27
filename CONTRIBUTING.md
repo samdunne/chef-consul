@@ -12,7 +12,7 @@ The process for contributing to Chef consul is rather straight-forward. It is un
 5. Document your changes (YARD).
 6. Run the tests (make sure they pass).
 7. Submit a Pull Request on GitHub.
-8. (optional) Ping me on Twitter (@samdunne)
+8. (optional) Ping me on Twitter (@samdunne_)
 
 Additionally, please **DO NOT**:
 - Modify the version of the cookbook or gem.
